@@ -57,11 +57,11 @@
     "extensions-ci": "node --max_old_space_size=4095 ./node_modules/gulp/bin/gulp.js extensions-ci"
   },
   "dependencies": {
-    "applicationinsights": "1.0.8",
+    "applicationinsights": "2.7.1",
     "chokidar": "3.5.1",
     "graceful-fs": "4.2.6",
     "http-proxy-agent": "^2.1.0",
-    "https-proxy-agent": "^2.2.3",
+    "https-proxy-agent": "^4.0.0",
     "iconv-lite-umd": "0.6.8",
     "jschardet": "3.0.0",
     "keytar": "7.2.0",
